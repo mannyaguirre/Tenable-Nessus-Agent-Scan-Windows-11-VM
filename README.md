@@ -190,4 +190,36 @@ start.txt
 <img width="1571" height="997" alt="Lab6" src="https://github.com/user-attachments/assets/833d0a1f-ca3b-44aa-8b67-f7a7d2f3a074" />
 
 
+## Step 9: Oberseve the Scan Results/Vulnerabilities
 
+After the scan was completed the results showed the following results:
+
+| Severity | Vulnerability |
+|---|---|
+| HIGH | 5 |
+| MEDIUM | 1 |
+| LOW | 1 |
+
+
+<img width="1918" height="980" alt="Lab1" src="https://github.com/user-attachments/assets/4320eb59-d468-4197-83ba-6515b02e0ecc" />
+
+## Key Takeaways
+
+This lab demonstrated how Tenable Nessus Agents can be used to scan endpoints remotely.
+
+**Key lessons learned:**
+
+Nessus Agents are installed directly on endpoints.
+Agent Groups help organize endpoints based on business or lab needs.
+Basic Agent Scans allow Tenable to collect vulnerability data from linked endpoints.
+Triggered scans can be started by creating a specific trigger file.
+Vulnerability results may take time to populate after the agent begins scanning.
+Cleanup is important to avoid unused cloud resources and stale Tenable assets.
+
+## Conclusion
+
+In this lab, I successfully configured a Nessus Agent-based vulnerability scan against a Windows 11 virtual machine.
+
+I created an Agent Group, configured a Basic Agent Scan, installed and linked the Nessus Agent, triggered the scan using start.txt, reviewed the vulnerability results in Tenable, and cleaned up the lab environment.
+
+This lab helped reinforce how agent-based vulnerability scanning works and how endpoint data is collected and reported back to Tenable.
