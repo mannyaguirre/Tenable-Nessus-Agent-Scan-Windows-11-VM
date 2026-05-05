@@ -203,6 +203,8 @@ After the scan was completed the results showed the following results:
 
 <img width="1918" height="980" alt="Lab1" src="https://github.com/user-attachments/assets/4320eb59-d468-4197-83ba-6515b02e0ecc" />
 
+After reviweing the results a cleanup was complete and the VM was deleted.
+
 ## Key Takeaways
 
 This lab demonstrated how Tenable Nessus Agents can be used to scan endpoints remotely.
