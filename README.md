@@ -203,7 +203,11 @@ After the scan was completed the results showed the following results:
 
 <img width="1918" height="980" alt="Lab1" src="https://github.com/user-attachments/assets/4320eb59-d468-4197-83ba-6515b02e0ecc" />
 
+---
+
 After reviweing the results a cleanup was complete and the VM was deleted.
+
+---
 
 ## Key Takeaways
 
@@ -226,6 +230,9 @@ I created an Agent Group, configured a Basic Agent Scan, installed and linked th
 
 This lab helped reinforce how agent-based vulnerability scanning works and how endpoint data is collected and reported back to Tenable.
 
+---
+
+```text
 Author        : Manny Aguirre
 LinkedIn      : linkedin.com/in/mannyaguirre/
 GitHub        : github.com/mannyaguirre
