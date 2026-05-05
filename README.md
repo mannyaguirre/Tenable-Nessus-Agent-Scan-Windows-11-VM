@@ -233,7 +233,7 @@ This lab helped reinforce how agent-based vulnerability scanning works and how e
 ---
 
 ```text
-Author        : Manny Aguirre
+Author        : Manuel Aguirre
 LinkedIn      : linkedin.com/in/mannyaguirre/
 GitHub        : github.com/mannyaguirre
 Date Created  : May 5, 2026
