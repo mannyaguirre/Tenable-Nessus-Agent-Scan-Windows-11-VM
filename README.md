@@ -225,3 +225,10 @@ In this lab, I successfully configured a Nessus Agent-based vulnerability scan a
 I created an Agent Group, configured a Basic Agent Scan, installed and linked the Nessus Agent, triggered the scan using start.txt, reviewed the vulnerability results in Tenable, and cleaned up the lab environment.
 
 This lab helped reinforce how agent-based vulnerability scanning works and how endpoint data is collected and reported back to Tenable.
+
+Author        : Manny Aguirre
+LinkedIn      : linkedin.com/in/mannyaguirre/
+GitHub        : github.com/mannyaguirre
+Date Created  : May 5, 2026
+Last Modified : May 5, 2026
+Version       : 1.0
