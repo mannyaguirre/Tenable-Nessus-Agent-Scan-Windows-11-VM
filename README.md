@@ -1,12 +1,8 @@
 # Tenable Nessus Agent Scan: Windows 11 VM
 
 <img width="387" height="120" alt="Screenshot 2026-05-04 192551" src="https://github.com/user-attachments/assets/65b7017d-4c97-41d6-a685-fe476db1e549" />
+<img width="598" height="162" alt="Screenshot 2026-05-06 180435" src="https://github.com/user-attachments/assets/98b4b7c3-3a86-4764-ae8f-716ac6b86c3d" />
 
-
-
-
-
-<img width="635" height="182" alt="Screenshot 2026-05-04 192457" src="https://github.com/user-attachments/assets/98599fd6-8b39-4cfa-8fb9-d88f9cd4a162" />
 
 
 ## Overview
