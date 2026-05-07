@@ -74,7 +74,7 @@ Navigation path:
 Settings -> Sensors -> Nessus Agents -> Agent Groups -> + Add Agent Group
 ```
 
-### Why This Step Matters
+### Why This Matters?
 
 The Agent Group tells Tenable which endpoints should be included in the agent scan. When the Nessus Agent is installed on the Windows 11 VM, the agent will be linked to this group.
 
@@ -90,7 +90,7 @@ Navigation path:
 Scans -> Create Scan -> Agent Scan -> Basic Agent Scan
 ```
 
-### Why This Step Matters
+### Why This Matters?
 
 This step connects the scan to the Agent Group created earlier. Once the Windows 11 VM is linked to that group, Tenable knows which endpoint should be included in the scan.
 
@@ -106,7 +106,7 @@ A triggered scan starts when a specific file is created on the endpoint. In this
 start.txt
 ```
 
-### Why This Step Matters
+### Why This Matters?
 
 Using a triggered scan gives control over when the Nessus Agent scan begins. Instead of waiting for a scheduled scan time, the scan starts when the trigger file is created on the Windows 11 VM.
 
@@ -166,7 +166,7 @@ Navigation path:
 Settings -> Sensors -> Nessus Agents
 ```
 
-### Why This Step Matters
+### Why This Matters?
 
 This step confirms that the Windows 11 VM successfully linked to Tenable. If the agent does not appear in the Nessus Agents section, the scan will not be able to target the endpoint.
 
