@@ -1,4 +1,4 @@
-# Tenable Nessus Agent Scan: Windows 11 VM
+# Tenable Basic Agent Scan: Windows 11 VM
 
 <img width="711" height="347" alt="Screenshot 2026-05-06 181102" src="https://github.com/user-attachments/assets/a441e683-9378-418b-b0fb-85c4d6ae9cfe" />
 
@@ -7,7 +7,7 @@
 
 ## Overview
 
-In this lab, I provisioned a Windows 11 virtual machine, installed a Tenable Nessus Agent, linked the agent to Tenable Vulnerability Management, created a Basic Agent Scan, triggered the scan using a local trigger file, reviewed the vulnerability results, and performed cleanup.
+The purpose of this lab was to complete a ***Basic Agent Scan*** . In this lab, I provisioned a Windows 11 virtual machine, installed a Tenable Nessus Agent, linked the agent to Tenable Vulnerability Management, created a Basic Agent Scan, triggered the scan using a local trigger file, reviewed the vulnerability results, and performed cleanup.
 
 This lab demonstrates how Nessus Agents can be used to scan endpoints remotely and send vulnerability data back to the Tenable cloud platform.
 
